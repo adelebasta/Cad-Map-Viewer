@@ -1,0 +1,411 @@
+[
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:43 CET 2023",
+    "CADFileCenterPoint": "3468829,1599414749071 / 5544810,6772190351039 / 0",
+    "gpsCenterPointCoordinatesString": "50,0393239920145 / 8,5649515986749",
+    "name": "1/16/45/12",
+    "id": "ACA-05a4b221-e30e-4424-bf6f-a2ac177ee880",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:43 CET 2023",
+    "CADFileCenterPoint": "3468977,5855836337432 / 5544864,2855157507583 / 0",
+    "gpsCenterPointCoordinatesString": "50,0398156326864 / 8,5670247719138",
+    "name": "1/16/45/06",
+    "id": "ACA-0695b4e8-ee80-44a9-a0f0-9c8095e060bc",
+    "rotationAngleInDegrees": 30
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:40 CET 2023",
+    "CADFileCenterPoint": "3467028,12793655321 / 5544161,6373517271131 / 0",
+    "gpsCenterPointCoordinatesString": "50,0333630254475 / 8,5397775655005",
+    "name": "1/18/45/50",
+    "id": "ACA-0b10e22b-c71b-4349-87d5-e08312d71f4d",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3469222,9624918913469 / 5544954,0814255895093 / 0",
+    "gpsCenterPointCoordinatesString": "50,0406322059741 / 8,5704379382055",
+    "name": "1/14/45/46",
+    "id": "ACA-118bc291-050d-4f44-be26-7171328df988",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:43 CET 2023",
+    "CADFileCenterPoint": "3467234,3503934084438 / 5544413,627972480841 / 0",
+    "gpsCenterPointCoordinatesString": "50,0346213440379 / 8,5405053570811",
+    "name": "1/18/35/42",
+    "id": "ACA-143895a2-2917-4bc3-b144-6e0d57e0d4ea",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3469335,7064594109543 / 5544994,8096640622243 / 0",
+    "gpsCenterPointCoordinatesString": "50,0410056798104 / 8,5720126283867",
+    "name": "1/14/45/42",
+    "id": "ACA-168810ac-08cd-4e1a-8774-30aa347ff6ba",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:41 CET 2023",
+    "CADFileCenterPoint": "3467254,2774650063366 / 5544235,0562284504995 / 0",
+    "gpsCenterPointCoordinatesString": "50,0340853434064 / 8,5430365585915",
+    "name": "1/18/45/42",
+    "id": "ACA-18fda353-a723-44a6-94c7-6219a1a53033",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:40 CET 2023",
+    "CADFileCenterPoint": "3466716,9177203602158 / 5544225,5094217164442 / 0",
+    "gpsCenterPointCoordinatesString": "50,0329034214632 / 8,5332929301057",
+    "name": "1/20/35/08",
+    "id": "ACA-2276adfa-1a1b-423a-a9d2-9089ff0fbcc8",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:42 CET 2023",
+    "CADFileCenterPoint": "3467195,9827817589976 / 5544401,0251596719027 / 0",
+    "gpsCenterPointCoordinatesString": "50,0344983225728 / 8,5399542305879",
+    "name": "1/18/35/44",
+    "id": "ACA-2496e1fd-36bd-4904-a283-50c56d430947",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:45 CET 2023",
+    "CADFileCenterPoint": "3469392,7524053524248 / 5545015,3977426895872 / 0",
+    "gpsCenterPointCoordinatesString": "50,0411945860721 / 8,5728096232364",
+    "name": "1/14/45/40",
+    "id": "ACA-2c2e8616-3b70-41d5-9e17-1bfa0624021f",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:42 CET 2023",
+    "CADFileCenterPoint": "3468098,3617833103053 / 5544543,6030351845548 / 0",
+    "gpsCenterPointCoordinatesString": "50,0368931914296 / 8,5547818840988",
+    "name": "1/18/45/08",
+    "id": "ACA-2c7ddd96-8b7e-4012-81b5-62d4ee10f4e3",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3468993,0867826775648 / 5545055,4391555180773 / 0",
+    "gpsCenterPointCoordinatesString": "50,0404682911502 / 8,5649910199264",
+    "name": "1/16/35/06",
+    "id": "ACA-2f695513-545f-448e-90f7-a8ef024baa55",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:43 CET 2023",
+    "CADFileCenterPoint": "3468710,9768884666264 / 5544767,4234552821144 / 0",
+    "gpsCenterPointCoordinatesString": "50,0389306837995 / 8,5633077405281",
+    "name": "1/16/45/16",
+    "id": "ACA-4954df7c-cf56-4bfb-a119-c05eead4a451",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:42 CET 2023",
+    "CADFileCenterPoint": "3467139,9488914357498 / 5544380,3743937416002 / 0",
+    "gpsCenterPointCoordinatesString": "50,0343113809129 / 8,5391765650235",
+    "name": "1/18/35/46",
+    "id": "ACA-4aaa4e2c-0069-40a4-8265-c94cd1d57e4e",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:43 CET 2023",
+    "CADFileCenterPoint": "3467388,2881949036382 / 5544469,6401688968763 / 0",
+    "gpsCenterPointCoordinatesString": "50,0351325814652 / 8,5426505140173",
+    "name": "1/18/35/36",
+    "id": "ACA-4e69134e-fc18-46c4-ba91-97274d8738a0",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:41 CET 2023",
+    "CADFileCenterPoint": "3467367,0840913951397 / 5544276,6879290007055 / 0",
+    "gpsCenterPointCoordinatesString": "50,0344618792294 / 8,5446014419286",
+    "name": "1/18/45/38",
+    "id": "ACA-5a235e5b-f97d-4707-ae1e-0978f8983fb3",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3468335,6068896958604 / 5544815,3848416404799 / 0",
+    "gpsCenterPointCoordinatesString": "50,038282093901 / 8,55583886267",
+    "name": "1/16/35/26",
+    "id": "ACA-5fbabcc8-5708-47d8-a69a-773847af157a",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3468937,8379073664546 / 5545034,8510768916458 / 0",
+    "gpsCenterPointCoordinatesString": "50,0402832340794 / 8,5642269974888",
+    "name": "1/16/35/08",
+    "id": "ACA-618bb0e2-148a-494f-9dfc-932890baa3b5",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:41 CET 2023",
+    "CADFileCenterPoint": "3467874,5810003620572 / 5544462,4222709247842 / 0",
+    "gpsCenterPointCoordinatesString": "50,0361507938288 / 8,5516604827014",
+    "name": "1/18/45/16",
+    "id": "ACA-649e3ab4-b526-434f-a30b-612202f35526",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:42 CET 2023",
+    "CADFileCenterPoint": "3468042,7310820342973 / 5544523,1992406193167 / 0",
+    "gpsCenterPointCoordinatesString": "50,0367079137105 / 8,5540086211125",
+    "name": "1/18/45/10",
+    "id": "ACA-67dbe688-e1ce-4e58-a0ff-11743ab198c0",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:40 CET 2023",
+    "CADFileCenterPoint": "3466869,4713918361813 / 5544279,9660505317152 / 0",
+    "gpsCenterPointCoordinatesString": "50,0334066531861 / 8,5354315559494",
+    "name": "1/20/35/02",
+    "id": "ACA-6ce07ba2-2453-485e-b069-af75a24d064a",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:43 CET 2023",
+    "CADFileCenterPoint": "3468885,3437158274464 / 5544831,079370342195 / 0",
+    "gpsCenterPointCoordinatesString": "50,0395104490496 / 8,5657350293004",
+    "name": "1/16/45/10",
+    "id": "ACA-6e95da8b-3f11-4992-8109-8916b09b56e5",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:40 CET 2023",
+    "CADFileCenterPoint": "3466928,9334565042518 / 5544118,1984704695642 / 0",
+    "gpsCenterPointCoordinatesString": "50,0330097894404 / 8,538484352121",
+    "name": "1/20/45/02",
+    "id": "ACA-70a63e7b-800d-4576-8de2-c666f9c6de53",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:39 CET 2023",
+    "CADFileCenterPoint": "3466872,3960743905045 / 5544097,2913137879223 / 0",
+    "gpsCenterPointCoordinatesString": "50,032820938474 / 8,5377005578684",
+    "name": "1/20/45/04",
+    "id": "ACA-75489328-9543-490f-a0a1-bff36e830e8f",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:43 CET 2023",
+    "CADFileCenterPoint": "3468998,1730844862759 / 5544872,1726135266945 / 0",
+    "gpsCenterPointCoordinatesString": "50,0398852886498 / 8,5673068599109",
+    "name": "1/16/45/05",
+    "id": "ACA-7d8a50df-053e-44c9-89fa-0637b95e7833",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:40 CET 2023",
+    "CADFileCenterPoint": "3466814,3960743905045 / 5544260,5169627964497 / 0",
+    "gpsCenterPointCoordinatesString": "50,0332256588984 / 8,5346569051134",
+    "name": "1/20/35/04",
+    "id": "ACA-8a81f56a-127d-47b2-afd1-6f92172d6ee4",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:43 CET 2023",
+    "CADFileCenterPoint": "3468230,8883363343775 / 5544777,8175949128345 / 0",
+    "gpsCenterPointCoordinatesString": "50,0379360534705 / 8,5543730876137",
+    "name": "1/16/35/32",
+    "id": "ACA-8fae3278-582d-4290-8b66-85c68070ca53",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:42 CET 2023",
+    "CADFileCenterPoint": "3468153,9244556454942 / 5544564,510191867128 / 0",
+    "gpsCenterPointCoordinatesString": "50,0370799546405 / 8,5555477945064",
+    "name": "1/18/45/06",
+    "id": "ACA-941aba77-c1ed-4b0c-b0a4-87ad12005aad",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:40 CET 2023",
+    "CADFileCenterPoint": "3467087,102093112655 / 5544173,7928273510188 / 0",
+    "gpsCenterPointCoordinatesString": "50,0335287349414 / 8,5407122030953",
+    "name": "1/18/45/48",
+    "id": "ACA-94a7a574-4be8-46a6-b613-3e5cced6bfba",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:41 CET 2023",
+    "CADFileCenterPoint": "3467199,2021475606598 / 5544215,1211177324876 / 0",
+    "gpsCenterPointCoordinatesString": "50,0339027741035 / 8,5422678018725",
+    "name": "1/18/45/44",
+    "id": "ACA-99065894-a884-439a-ae46-69f324244a34",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:42 CET 2023",
+    "CADFileCenterPoint": "3466973,3778396216221 / 5544320,627972480841 / 0",
+    "gpsCenterPointCoordinatesString": "50,0337609828095 / 8,5368449007341",
+    "name": "1/18/35/52",
+    "id": "ACA-9c8a13dd-f072-4cf2-ae36-02ce0c5024f5",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3469021,3854252970777 / 5545064,3903794940561 / 0",
+    "gpsCenterPointCoordinatesString": "50,0405579122298 / 8,5654016860108",
+    "name": "1/16/35/04",
+    "id": "ACA-a7fae6ef-5d11-482c-a406-396b7835fd04",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:39 CET 2023",
+    "CADFileCenterPoint": "3466753,4725246229209 / 5544054,0181146319956 / 0",
+    "gpsCenterPointCoordinatesString": "50,0324259811876 / 8,5360433488837",
+    "name": "1/20/45/08",
+    "id": "ACA-ab0b9105-eb40-4dad-9a81-7a35fe2abb83",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:41 CET 2023",
+    "CADFileCenterPoint": "3467930,6310275862925 / 5544481,8709502378479 / 0",
+    "gpsCenterPointCoordinatesString": "50,0363338745484 / 8,5524530223354",
+    "name": "1/18/45/14",
+    "id": "ACA-ab1d62b6-4e37-4466-8254-86fd03faec76",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:42 CET 2023",
+    "CADFileCenterPoint": "3468199,2516215657815 / 5544580,5554850371554 / 0",
+    "gpsCenterPointCoordinatesString": "50,0372290387165 / 8,5561848661899",
+    "name": "1/18/45/04",
+    "id": "ACA-b29e3972-fcff-4d75-9266-beace4607807",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3468261,58242569305 / 5544788,26087774802 / 0",
+    "gpsCenterPointCoordinatesString": "50,0380356406116 / 8,5548096104805",
+    "name": "1/16/35/30",
+    "id": "ACA-b807da33-554d-4157-9758-dd7efe08a929",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:39 CET 2023",
+    "CADFileCenterPoint": "3466818,7828216128983 / 5544077,8426344739273 / 0",
+    "gpsCenterPointCoordinatesString": "50,032643077143 / 8,5369527278468",
+    "name": "1/20/45/06",
+    "id": "ACA-b8883b9b-f8f7-48e2-a912-824c6874a29b",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:42 CET 2023",
+    "CADFileCenterPoint": "3467081,4617525744252 / 5544368,7051371447742 / 0",
+    "gpsCenterPointCoordinatesString": "50,0341482902249 / 8,53824496667",
+    "name": "1/18/35/48",
+    "id": "ACA-c11d52bd-4060-4340-8661-247fa61db571",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:41 CET 2023",
+    "CADFileCenterPoint": "3467311,3022020086646 / 5544256,4498165370896 / 0",
+    "gpsCenterPointCoordinatesString": "50,0342768145891 / 8,5438233956965",
+    "name": "1/18/45/40",
+    "id": "ACA-c56fc3ab-95cf-4b8d-b327-a703b8015d0c",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:43 CET 2023",
+    "CADFileCenterPoint": "3469024,8265312053263 / 5544881,5269922344014 / 0",
+    "gpsCenterPointCoordinatesString": "50,0399726923136 / 8,5676824510065",
+    "name": "1/16/45/04",
+    "id": "ACA-cc8b5850-fd0c-4a62-9575-db40158f6c5c",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3468581,1329204444773 / 5544904,7651084903628 / 0",
+    "gpsCenterPointCoordinatesString": "50,0390976396575 / 8,5592598056431",
+    "name": "1/16/35/20",
+    "id": "ACA-d4036b24-4676-4974-bcd7-5e414c882c9f",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3469280,4570985361934 / 5544974,6695042168722 / 0",
+    "gpsCenterPointCoordinatesString": "50,0408220732335 / 8,5712431650219",
+    "name": "1/14/45/44",
+    "id": "ACA-d6788cad-b3bf-4369-9756-0d4242582291",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:20 CET 2023",
+    "CADFileCenterPoint": "3470574,4024858926423 / 5545631,3258125521243 / 0",
+    "gpsCenterPointCoordinatesString": "50,0457215801726 / 8,5870208741952",
+    "name": "1/10/35/30",
+    "description": "",
+    "id": "ACA-d8e349c0-31f4-4d14-8ca8-2aa0abf2c369",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:42 CET 2023",
+    "CADFileCenterPoint": "3467986,1931730508804 / 5544502,2920839376748 / 0",
+    "gpsCenterPointCoordinatesString": "50,0365190616156 / 8,553224817193",
+    "name": "1/18/45/12",
+    "id": "ACA-dae2791c-b537-4e38-9b83-dbbeae5da427",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:41 CET 2023",
+    "CADFileCenterPoint": "3467142,6647654473782 / 5544193,2415066640824 / 0",
+    "gpsCenterPointCoordinatesString": "50,0337107717833 / 8,5414958008069",
+    "name": "1/18/45/46",
+    "id": "ACA-e0adcb8f-2b79-4d7e-95a9-96e60f499eaa",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:42 CET 2023",
+    "CADFileCenterPoint": "3467026,71800505789 / 5544349,1008487949148 / 0",
+    "gpsCenterPointCoordinatesString": "50,0339675031892 / 8,5374782815898",
+    "name": "1/18/35/50",
+    "id": "ACA-e24922d6-3fcb-489d-b60f-44e795305017",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3469131,3293700334616 / 5544920,9614075543359 / 0",
+    "gpsCenterPointCoordinatesString": "50,0403286053315 / 8,5691583202942",
+    "name": "1/14/45/50",
+    "id": "ACA-ed26b781-34f9-4a73-82f2-1e32f78423f4",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3469167,713131016586 / 5544934,3884317204356 / 0",
+    "gpsCenterPointCoordinatesString": "50,0404500484916 / 8,5696630519518",
+    "name": "1/14/45/48",
+    "id": "ACA-f171ed82-28d2-4763-b84d-0dcefc8fa23d",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:43 CET 2023",
+    "CADFileCenterPoint": "3468778,2187562729232 / 5544791,6948845721781 / 0",
+    "gpsCenterPointCoordinatesString": "50,0391533652982 / 8,564247139917",
+    "name": "1/16/45/14",
+    "id": "ACA-f260ffbb-16fc-4bc3-86f7-18b3a1d18575",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:44 CET 2023",
+    "CADFileCenterPoint": "3468316,8908433821052 / 5544808,2984403129667 / 0",
+    "gpsCenterPointCoordinatesString": "50,0382190412051 / 8,5555814016337",
+    "name": "1/16/35/27",
+    "id": "ACA-f98c7b0d-5e10-4c13-9a3c-40ec98885e22",
+    "rotationAngleInDegrees": 0
+  },
+  {
+    "lastModificationDate": "Tue Jan 10 15:52:41 CET 2023",
+    "CADFileCenterPoint": "3467817,555736489594 / 5544441,5147058200091 / 0",
+    "gpsCenterPointCoordinatesString": "50,0359608965327 / 8,5508677418125",
+    "name": "1/18/45/18",
+    "id": "ACA-ffb9f315-4007-43e4-8ad0-1b9011a69597",
+    "rotationAngleInDegrees": 0
+  }
+]
